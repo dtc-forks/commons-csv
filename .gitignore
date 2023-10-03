@@ -21,3 +21,6 @@ buildNumber.properties
 *.iml
 
 /.vscode/
+red4j-data/
+**/cp.txt
+**.java.orig
